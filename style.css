@@ -19,3 +19,26 @@
     padding: 9px 20px;
     cursor: pointer;
 }
+.justify-content-end{
+    text-align: end;
+}
+.card-footer{
+    color: aqua;
+    border-top: none;
+}
+.simple{
+    text-align: center;
+}
+
+.border1{
+    height: 8px;
+    width: 120px;
+    background-color: orange;
+    border-radius: 5px;
+    margin-left:610px;
+    margin-bottom: 100px;
+}
+
+   
+
+
